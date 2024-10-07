@@ -6,10 +6,12 @@ This multilingual chatbot is capable of conversing in Hindi, English, and Malaya
 **multilingual_chatbot/**
 ├── configs/
 │   └── config.py
+
 ├── data/
 │   ├── banking_articles_English.txt
 │   ├── banking_articles_Hindi.txt
-│   └── banking_articles_Malayalam.txt
+│   └── banking_articles_Malayalam.txt'
+
 ├── models/
 │   ├── train_english.py
 │   ├── train_hindi.py
